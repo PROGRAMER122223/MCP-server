@@ -12,6 +12,7 @@ from customers import CUSTOMERS
 from orders import ORDERS
 from restaurants import RESTAURANTS
 from pathlib import Path
+from models import Customer
 
 
 mcp = FastMCP(
